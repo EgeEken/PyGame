@@ -26,51 +26,24 @@ Play snake.
 </p>
 </details>
 
-## [Reaction Time Test](https://github.com/EgeEken/Reaction)
+## [Human Benchmark](https://github.com/EgeEken/Human-Benchmark)
 
-Measures your reaction time.
+Play the human benchmark tests.
 
 <details><summary>Results: (click here to open)</summary>
 <p>
-
 
 ![reaction time gameplay fix](https://user-images.githubusercontent.com/96302110/195985409-5692d1ed-3abd-4a85-bd95-c5d28024be7c.gif)
 
-</p>
-</details>
-
-## [Sequence Memory Test](https://github.com/EgeEken/Sequence)
-
-Measures your sequence memory.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
 ![sequence](https://user-images.githubusercontent.com/96302110/196301263-31e1ed65-89d0-48f2-b758-50373a658580.gif)
-
-</p>
-</details>
-
-## [Aim Trainer](https://github.com/EgeEken/Aim)
-
-Measures your aiming speed.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
 
 ![Aim](https://user-images.githubusercontent.com/96302110/196504214-85d8775a-e413-4084-919b-cc26d1671a84.gif)
 
-</p>
-</details>
-
-## [Visual Memory Test](https://github.com/EgeEken/Visual)
-
-Measures your visual memory.
-
-<details><summary>Results: (click here to open)</summary>
-<p>
-
 ![visual memory gameplay_Trim](https://user-images.githubusercontent.com/96302110/196817239-f9d0f27a-9d6b-4f45-92cf-a2c9b146aa92.gif)
+
+![chimp test gameplay_Trim](https://user-images.githubusercontent.com/96302110/197075859-fe431622-1aae-41fd-baae-e9ab8a9c5fd7.gif)
+
+![number memory gameplay_Trim](https://user-images.githubusercontent.com/96302110/197221144-029c8fe8-9b3e-40a1-afa8-0dcc2ac0d58b.gif)
 
 </p>
 </details>
