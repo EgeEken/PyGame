@@ -48,6 +48,7 @@ Play the human benchmark tests.
 ### Verbal Memory
 ![Verbal memory test trim](https://user-images.githubusercontent.com/96302110/197283609-a442cd38-e99d-46c1-aac8-21b7eeed0fd4.gif)
 ### Typing
+![typing gameplay trim (2)](https://user-images.githubusercontent.com/96302110/197369222-66c8fb94-851f-4f1b-9451-ac3bdea7244c.gif)
 
 </p>
 </details>
