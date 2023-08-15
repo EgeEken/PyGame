@@ -54,3 +54,17 @@ Play the human benchmark tests.
 
 </p>
 </details>
+
+
+
+## [Smaller Fish](https://github.com/EgeEken/Smaller-Fish)
+
+Play the game i submitted for the [Pygame Community Summer Game Jam 2023](https://itch.io/jam/pygame-community-summer-jam-2023/rate/2210502)
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+https://github.com/EgeEken/Smaller-Fish/assets/96302110/504cf11a-d956-4efa-bc73-9d3c3d5ea545
+
+</p>
+</details>
